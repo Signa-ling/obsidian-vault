@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Segoe UI",
+  "textFontFamily": "Segoe Script",
+  "monospaceFontFamily": "Segoe Script",
+  "nativeMenus": true,
+  "baseFontSize": 20,
+  "baseFontSizeAction": true
+}
